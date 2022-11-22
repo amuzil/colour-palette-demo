@@ -15,11 +15,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 As almost all Amuzil products, this project is licensed under the [Unlicense](https://unlicense.org/).
 
-## Credits
+## Special Thanks
 
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vercel](https://vercel.com/)
-- [TypeScript](https://typescriptlang.org/)
-- [SASS](https://sass-lang.com/)
-- [pnpm](https://pnpm.io/)
+- [Next.js](https://nextjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [TypeScript](https://typescriptlang.org)
+- [pnpm](https://pnpm.io)
+- [GitHub](https://github.com)
+- [JetBrains](https://jetbrains.com)
