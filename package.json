@@ -7,7 +7,8 @@
 		"dev": "next dev --turbo",
 		"build": "next build",
 		"start": "next start",
-		"lint": "next lint"
+		"lint": "next lint",
+		"test": "alex"
 	},
 	"dependencies": {
 		"@types/node": "18.11.9",
@@ -19,5 +20,8 @@
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
 		"typescript": "4.9.3"
+	},
+	"devDependencies": {
+		"alex": "^11.0.0"
 	}
 }
