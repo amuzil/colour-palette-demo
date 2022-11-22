@@ -2,8 +2,7 @@
 const nextConfig = {
 	experimental: {
 		appDir: true
-	},
-	sassOptions: {}
+	}
 };
 
 module.exports = nextConfig;

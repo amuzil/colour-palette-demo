@@ -1,11 +1,11 @@
 /* eslint-disable @next/next/no-head-element */
-import "./global.scss";
+import "./global.css";
 
 export default function RootLayout({ children }: {
 	children: React.ReactNode;
 }) {
 	return (
-		<html>
+		<html lang="en">
 			<head>
 				<meta charSet="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
