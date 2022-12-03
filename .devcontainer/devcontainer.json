@@ -21,6 +21,8 @@
 	"extensions": [
 		"GitHub.copilot",
 		"seatonjiang.gitmoji-vscode",
-		"bradlc.vscode-tailwindcss"
+		"bradlc.vscode-tailwindcss",
+		"eamodio.gitlens",
+		"dsznajder.es7-react-js-snippets"
 	]
 }
